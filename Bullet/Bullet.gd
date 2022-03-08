@@ -14,4 +14,5 @@ func _physics_process(delta):
 			GlobalVariables.scoringInformation["currentScore"] +=10
 			collidedObject.get_collider().queue_free()
 		queue_free()
-
+	if position.x <= (-100):
+		queue_free()
