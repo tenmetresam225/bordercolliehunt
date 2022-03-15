@@ -55,7 +55,7 @@ text = "0"
 position = Vector2( -1.53629, 369.479 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Border_Left"]
-position = Vector2( -5.37704, -0.768158 )
+position = Vector2( -84.7107, -11.8748 )
 shape = SubResource( 1 )
 
 [node name="Border_Right" type="Area2D" parent="." groups=[
