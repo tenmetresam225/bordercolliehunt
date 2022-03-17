@@ -6,7 +6,7 @@ This project is to be used as the starting point for the development of the work
 
 ## Task
 
-Complete the various sections of the game as you develop your tutorial.
+Complete the various sections of the game as you develop your game.
 
 
 # How to start
